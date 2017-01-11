@@ -1,0 +1,11 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç B406-2943
+
+ Pasta de C:\Users\Leandro\Documents\Blanestech\Projetos\teste
+
+11/01/2017  11:57    <DIR>          .
+11/01/2017  11:57    <DIR>          ..
+11/01/2017  11:43               387 teste.txt
+11/01/2017  11:57                 0 teste2.txt
+               2 arquivo(s)            387 bytes
+               2 pasta(s)   176.237.371.392 bytes dispon°veis
