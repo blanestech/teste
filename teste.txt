@@ -7,7 +7,7 @@ Mudei algo manualmente. novamente.
 
 11/01/2017  11:43    <DIR>          .
 11/01/2017  11:43    <DIR>          ..
-11/01/2017  11:43                 0 teste.txt
+11/01/2017  11:43                 0 testes.txt
                1 arquivo(s)              0 bytes
                2 pasta(s)   176.236.363.776 bytes dispon¡veis
 
