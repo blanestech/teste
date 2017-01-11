@@ -1,13 +1,13 @@
 Mudei algo manualmente. novamente. sem enviar.
 
- O volume na unidade C n∆o tem nome.
+ O volume na unidade C n∆o tem nome. mudanÁa que n„o foi.
  O N£mero de SÇrie do Volume Ç B406-2943
 
  Pasta de C:\Users\Leandro\Documents\Blanestech\Projetos\teste
 
 11/01/2017  11:43    <DIR>          .
 11/01/2017  11:43    <DIR>          ..
-11/01/2017  11:43                 0 tteste.txt
+11/01/2017  11:43                 0 testes.txt
                1 arquivo(s)              0 bytes
                2 pasta(s)   176.236.363.776 bytes dispon°veis
 
